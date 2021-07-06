@@ -1,0 +1,11 @@
+li{
+    padding: 1rem;  
+    margin-left: -5%;    
+}
+li:hover{
+    background-color: rgb(219, 223, 223);
+    border-left: 4px solid rgb(139, 182, 171);
+}
+#remove-icon{
+    display: none;
+}

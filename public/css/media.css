@@ -1,0 +1,29 @@
+@media screen and (max-width: 600px) {
+   #wel-h3{
+        font-size: 1rem;
+    }
+    #fill-h2{
+        font-size: 1.2rem;
+    }
+    #forgot-p{
+        font-size: 0.8rem;
+    }
+    #inputs{
+        width: 100%;
+    }
+    .divUploder{
+        background: rgb(188, 224, 235);
+    }
+    .mainform{
+        width: 100%;
+    }
+    .h4text{
+        font-size: 0.7rem;
+    }
+}
+
+@media screen and (min: 600px) {
+    /* .form{
+        width: 100px;
+    } */
+}
